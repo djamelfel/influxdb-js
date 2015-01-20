@@ -1,0 +1,24 @@
+{
+  "name": "influxdb-hl",
+  "version": "0.0.17",
+  "homepage": "https://github.com/djamelfel/influxdb-js",
+  "authors": [
+    "Djamel F. <djamelfel@gmail.com>"
+  ],
+  "description": "JavaScript client library for InfluxDB",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "influx",
+    "influxdb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
